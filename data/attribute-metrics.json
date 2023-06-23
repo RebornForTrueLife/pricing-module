@@ -1,0 +1,13 @@
+{
+	"drink-type": {
+		"hot": 0,
+		"cold": 0.5,
+		"blended": 1.5
+	},
+	"drink-size": {
+		"s": 0,
+		"m": 0.5,
+		"l": 1,
+		"xl": 1.5
+	}
+}

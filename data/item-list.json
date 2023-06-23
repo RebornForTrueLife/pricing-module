@@ -1,0 +1,30 @@
+{
+	"coffee": {
+		"id": "gid://shop/item/coffee",
+		"name": "Coffee",
+		"kind": "drink",
+		"base-price": 2,
+		"attribute-list": ["drink-type", "drink-size"]
+	},
+	"milk-tea": {
+		"id": "gid://shop/item/milk-tea",
+		"name": "Milk Tea",
+		"kind": "drink",
+		"base-price": 2.25,	
+		"attribute-list": ["drink-type", "drink-size"]
+	},
+	"sandwich": {
+		"id": "gid://shop/item/sandwich",
+		"name": "Sandwich",
+		"kind": "food",
+		"base-price": 3,
+		"attribute-list": []
+	},
+	"bagel": {
+		"id": "gid://shop/item/bagel",
+		"name": "Bagel",
+		"kind": "food",
+		"base-price": 3,
+		"attribute-list": []
+	}
+}
