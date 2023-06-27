@@ -1,0 +1,5 @@
+/* [item key] : [item name] */
+COFFEE : "coffee"
+MILKTEA : "milk tea"
+SANDWICH : "sandwich"
+BAGEL : "bagel"
